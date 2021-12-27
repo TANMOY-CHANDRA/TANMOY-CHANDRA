@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TANMOY CHANDRA
 - 👀 Currently, I'm working as a Product Analyst at Cliniops Inc.
-- 🌱 I’m currently learning Data Science and Programming at IIT Madras.
+- 🌱 I’m also learning Data Science and Programming at IIT Madras.
 - 💞️ I would like to collaborate on various projects in future.
 - 💞️ I'm also an ardent cricket lover and stock market investor.
 - 📫 Reach me on +917003991709 (Whatsapp)
